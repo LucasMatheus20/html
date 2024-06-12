@@ -3,4 +3,9 @@
 
 body{
     background-color: black;
+    background-image: url("../html/imagens/cev-portrait.jpg");
+    background-position: left bottom ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
